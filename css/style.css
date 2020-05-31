@@ -528,6 +528,7 @@ body:after {
   z-index: 100;
   width: 100%; }
   .sticky-wrapper .site-navbar {
+      background:white;
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease; }
@@ -596,7 +597,7 @@ body:after {
     right: -5%;
     bottom: 0;
     z-index: 1;
-    max-width: 950px; }
+    max-width: 700px; } 
     @media (max-width: 991.98px) {
       .site-blocks-cover .img-face {
         right: -25%; } }
